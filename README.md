@@ -1,10 +1,34 @@
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GAMEDAY MATCHUPS
 
-In the project directory, run:
+Gameday Matchups is a responsive web application to show American football fans the individual player matchups between 2 teams.
 
-### `yarn start`
+[Run the deployed application](https://gameday-matchups.herokuapp.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Developer
+- JK
 
+## Built with
+- [React.js](https://reactjs.org/docs/getting-started.html)
+
+## Run Locally
+The setup steps expect the following tools/versions:
+- NodeJS
+
+###### Clone the Repo
+```
+git clone 
+```
+
+###### Install Dependencies
+```
+yarn install 
+bundle install 
+```
+
+```
+###### Start the webpack-dev-server
+```
+yarn start
+```
+###### The application can be accessed locally at <http://localhost:3000>
