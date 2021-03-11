@@ -7,7 +7,6 @@ const reactContentRoot = document.getElementById("root")
 const App = () => {
   return (
     <div className="App">
-      hello world from index.js
       <div className="container">
         <img src="https://jkorenstein-production.s3.amazonaws.com/football-gameday-player-matchups/American_Football_Positions_no_names.png" alt="Football" width="70%"/> 
         {/* <img src="https://jkorenstein-production.s3.amazonaws.com/football-gameday-player-matchups/American_Football_Positions.jpg" alt="Football" width="70%"/>  */}
