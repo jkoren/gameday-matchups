@@ -11,6 +11,7 @@ const App = () => {
         <h1>Gameday Matchups</h1>
         <h2>New England at Atlanta</h2>
         <h2>9/9/2021</h2>
+        <h3>New England on Offense</h3>
       </div>
       <div className="container">
         <img src="https://jkorenstein-production.s3.amazonaws.com/football-gameday-player-matchups/American_Football_Positions_no_names.png" alt="Football" width="70%"/> 
