@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+.titles {
+  text-align: center;
+}
+
 /* Container holding the image and the text */
 .container {
   position: relative;
@@ -20,13 +24,23 @@ code {
   size: 10%;
 }
 
-.team {
+.offenseteam {
   position: absolute;
   top: 78%;
   left: 30%;
   size: 30%;
   color: white;
 }
+
+.defenseteam {
+  position: absolute;
+  top: 18%;
+  left: 30%;
+  size: 30%;
+  color: white;
+}
+
+/* offense  */
 
 .quarterback {
   position: absolute;
@@ -85,4 +99,71 @@ code {
   position: absolute;
   top: 76%;
   left: 73%;
+}
+
+/* defense  */
+
+.leftcornerback {
+  position: absolute;
+  top: 26%;
+  left: 17%;
+}
+
+.leftoutsidelinebacker {
+  position: absolute;
+  top: 35%;
+  left: 24%;
+}
+
+.leftdefensiveend {
+  position: absolute;
+  top: 42%;
+  left: 32%;
+}
+
+.leftdefensivetackle {
+  position: absolute;
+  top: 39%;
+  left: 38%;
+}
+
+.middlelinebacker {
+  position: absolute;
+  top: 34%;
+  left: 45%;
+}
+
+.rightdefensivetackle {
+  position: absolute;
+  top: 39%;
+  left: 50%;
+}
+
+.rightdefensiveend {
+  position: absolute;
+  top: 42%;
+  left: 55%;
+}
+.rightoutsidelinebacker {
+  position: absolute;
+  top: 35%;
+  left: 63%;
+}
+
+.rightcornerback {
+  position: absolute;
+  top: 26%;
+  left: 73%;
+}
+
+.leftsafety {
+  position: absolute;
+  top: 6%;
+  left: 40%;
+}
+
+.rightsafety {
+  position: absolute;
+  top: 6%;
+  left: 50%;
 }
