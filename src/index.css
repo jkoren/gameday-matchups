@@ -11,3 +11,78 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: red;
+  size: 10%;
+}
+
+.team {
+  position: absolute;
+  top: 78%;
+  left: 30%;
+  size: 30%;
+  color: white;
+}
+
+.quarterback {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+}
+.fullback {
+  position: absolute;
+  top: 78%;
+  left: 50%;
+}
+.halfback {
+  position: absolute;
+  top: 88%;
+  left: 50%;
+}
+.leftwidereceiver {
+  position: absolute;
+  top: 61%;
+  left: 17%;
+}
+.lefttackle {
+  position: absolute;
+  top: 64%;
+  left: 30%;
+}
+.leftguard {
+  position: absolute;
+  top: 61%;
+  left: 40%;
+}
+.center {
+  position: absolute;
+  top: 64%;
+  left: 45%;
+}
+.rightguard {
+  position: absolute;
+  top: 61%;
+  left: 50%;
+}
+
+.righttackle {
+  position: absolute;
+  top: 64%;
+  left: 55%;
+}
+
+.tightend {
+  position: absolute;
+  top: 61%;
+  left: 65%;
+}
+
+.rightwidereceiver {
+  position: absolute;
+  top: 76%;
+  left: 73%;
+}
